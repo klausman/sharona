@@ -47,8 +47,8 @@ func main() {
 	mm := fyne.NewMainMenu(fm)
 	w.SetMainMenu(mm)
 
-	input := makeEntry("Enter text...")
-	output := makeEntry("Output will appear here")
+	input := makeEntry("Paste simple assignGear loadouts here...")
+	output := makeEntry("Limited Arsenal code will appear here")
 
 	c := make(chan string)
 	button := widget.NewButton("Convert", func() {
@@ -62,7 +62,7 @@ func main() {
 			}
 		}
 	}()
-	boxes := container.NewAdaptiveGrid(1, input, output)
+	boxes := container.NewGridWithColumns(1, input, output)
 	content := container.NewBorder(button, nil, nil, nil, boxes)
 	w.SetContent(content)
 
