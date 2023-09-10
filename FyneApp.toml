@@ -1,0 +1,8 @@
+Website = "https://github.com/klausman/sharona"
+
+[Details]
+  Icon = "Icon.png"
+  Name = "Sharona"
+  ID = "com.github.klausman.sharona"
+  Version = "0.0.5"
+  Build = 3
