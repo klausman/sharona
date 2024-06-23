@@ -1,4 +1,4 @@
-module github.com/klausman/sharona
+module pkg.i-no.de/pkg/sharona
 
 go 1.21
 
