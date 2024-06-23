@@ -4,5 +4,5 @@ Website = "https://github.com/klausman/sharona"
   Icon = "Icon.png"
   Name = "Sharona"
   ID = "com.github.klausman.sharona"
-  Version = "0.0.7"
-  Build = 7
+  Version = "0.1.1"
+  Build = 8
