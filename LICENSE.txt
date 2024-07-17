@@ -3,14 +3,12 @@ Copyright (C) 2023 Tobias Klausmann
 
 This program is free software; you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
-Foundation; version 2 of the License.
+Foundation; version 2.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-For the complete terms of the GNU General Public License, please see this URL:
-http://www.gnu.org/licenses/gpl-2.0.html
-
-NOTE: This program is licensed as GPL-2 ONLY, no later version of the GPL maybe
-used.
+You should have received a copy of the GNU General Public License along with
+this program; if not, write to the Free Software Foundation, Inc., 51 Franklin
+Street, Fifth Floor, Boston, MA 02110-1301, USA. 
