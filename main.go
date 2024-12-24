@@ -21,7 +21,7 @@ const (
 
 var (
 	reComment = regexp.MustCompile(`//.*$`)
-	reLoadout = regexp.MustCompile(`(?i).*setunitloadout *(\[[^;]+);.*`)
+	reLoadout = regexp.MustCompile(`(?i).*(?:setunitloadout|newLoadout *=) *(\[[^;]+);.*`)
 	reQitem   = regexp.MustCompile(`.*("[^"]+").*`)
 
 	versioninfo = fmt.Sprintf("Sharona v%s\n© 2023 Tobias Klausmann\n\nSharona converts simple assignGear loadouts to ACE limited arsenals.\nhttps://github.com/klausman/sharona", version)
