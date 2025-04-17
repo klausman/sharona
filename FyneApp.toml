@@ -4,5 +4,5 @@ Website = "https://pkg.i-no.de/pkg/sharona/"
   Icon = "Icon.png"
   Name = "Sharona"
   ID = "de.i-no.klausman.sharona"
-  Version = "0.1.5"
-  Build = 17
+  Version = "0.1.6"
+  Build = 21
